@@ -1,0 +1,156 @@
+
+**Group A**
+- M1: Mexico 2–1 South Africa  (H 0.60 / D 0.21 / A 0.19, high)
+- M2: South Korea 1–1 Czech Republic  (H 0.42 / D 0.26 / A 0.32, low)
+- M3: Mexico 1–1 South Korea  (H 0.53 / D 0.22 / A 0.25, medium)
+- M4: Czech Republic 1–1 South Africa  (H 0.39 / D 0.27 / A 0.34, low)
+- M5: Czech Republic 1–1 Mexico  (H 0.27 / D 0.25 / A 0.48, medium)
+- M6: South Africa 1–1 South Korea  (H 0.29 / D 0.26 / A 0.45, medium)
+  Final table:
+    1. Mexico — 5 pts, GD +1, GF 4
+    2. South Korea — 3 pts, GD +0, GF 3
+    3. Czech Republic — 3 pts, GD +0, GF 3
+    4. South Africa — 2 pts, GD -1, GF 3
+
+**Group B**
+- M7: Canada 2–1 Bosnia and Herzegovina  (H 0.58 / D 0.21 / A 0.21, high)
+- M8: Qatar 0–1 Switzerland  (H 0.19 / D 0.25 / A 0.56, high)
+- M9: Canada 2–1 Qatar  (H 0.60 / D 0.21 / A 0.19, high)
+- M10: Switzerland 1–0 Bosnia and Herzegovina  (H 0.54 / D 0.25 / A 0.21, medium)
+- M11: Switzerland 1–1 Canada  (H 0.43 / D 0.27 / A 0.30, low)
+- M12: Bosnia and Herzegovina 1–1 Qatar  (H 0.39 / D 0.26 / A 0.35, low)
+  Final table:
+    1. Canada — 7 pts, GD +2, GF 5
+    2. Switzerland — 7 pts, GD +2, GF 3
+    3. Bosnia and Herzegovina — 1 pts, GD -2, GF 2
+    4. Qatar — 1 pts, GD -2, GF 2
+
+**Group C**
+- M13: Brazil 1–1 Morocco  (H 0.45 / D 0.26 / A 0.29, medium)
+- M14: Haiti 0–1 Scotland  (H 0.17 / D 0.21 / A 0.62, high)
+- M15: Brazil 3–0 Haiti  (H 0.92 / D 0.06 / A 0.02, high)
+- M16: Scotland 0–1 Morocco  (H 0.14 / D 0.21 / A 0.65, high)
+- M17: Scotland 0–2 Brazil  (H 0.09 / D 0.16 / A 0.75, high)
+- M18: Morocco 3–0 Haiti  (H 0.86 / D 0.10 / A 0.04, high)
+  Final table:
+    1. Brazil — 7 pts, GD +5, GF 6
+    2. Morocco — 7 pts, GD +4, GF 5
+    3. Scotland — 3 pts, GD -2, GF 1
+    4. Haiti — 0 pts, GD -7, GF 0
+
+**Group D**
+- M19: United States 2–1 Paraguay  (H 0.60 / D 0.21 / A 0.19, high)
+- M20: Australia 1–1 Turkey  (H 0.25 / D 0.25 / A 0.50, medium)
+- M21: United States 2–1 Australia  (H 0.59 / D 0.21 / A 0.20, high)
+- M22: Turkey 1–0 Paraguay  (H 0.52 / D 0.25 / A 0.23, medium)
+- M23: Turkey 1–1 United States  (H 0.40 / D 0.25 / A 0.35, low)
+- M24: Paraguay 1–1 Australia  (H 0.34 / D 0.28 / A 0.38, low)
+  Final table:
+    1. United States — 7 pts, GD +2, GF 5
+    2. Turkey — 5 pts, GD +1, GF 3
+    3. Australia — 2 pts, GD -1, GF 3
+    4. Paraguay — 1 pts, GD -2, GF 2
+
+**Group E**
+- M25: Germany 3–0 Curacao  (H 0.91 / D 0.07 / A 0.02, high)
+- M26: Ivory Coast 1–1 Ecuador  (H 0.32 / D 0.27 / A 0.41, low)
+- M27: Germany 1–0 Ivory Coast  (H 0.61 / D 0.22 / A 0.17, high)
+- M28: Ecuador 2–0 Curacao  (H 0.77 / D 0.15 / A 0.08, high)
+- M29: Ecuador 0–1 Germany  (H 0.21 / D 0.25 / A 0.54, medium)
+- M30: Curacao 0–2 Ivory Coast  (H 0.09 / D 0.16 / A 0.75, high)
+  Final table:
+    1. Germany — 9 pts, GD +5, GF 5
+    2. Ecuador — 4 pts, GD +1, GF 3
+    3. Ivory Coast — 4 pts, GD +1, GF 3
+    4. Curacao — 0 pts, GD -7, GF 0
+
+**Group F**
+- M31: Netherlands 1–1 Japan  (H 0.51 / D 0.24 / A 0.25, medium)
+- M32: Sweden 1–1 Tunisia  (H 0.43 / D 0.26 / A 0.31, low)
+- M33: Netherlands 2–0 Sweden  (H 0.69 / D 0.18 / A 0.13, high)
+- M34: Tunisia 0–1 Japan  (H 0.18 / D 0.23 / A 0.59, high)
+- M35: Tunisia 0–2 Netherlands  (H 0.10 / D 0.17 / A 0.73, high)
+- M36: Japan 1–1 Sweden  (H 0.54 / D 0.24 / A 0.22, medium)
+  Final table:
+    1. Netherlands — 7 pts, GD +4, GF 5
+    2. Japan — 5 pts, GD +1, GF 3
+    3. Sweden — 2 pts, GD -2, GF 2
+    4. Tunisia — 1 pts, GD -3, GF 1
+
+**Group G**
+- M37: Belgium 1–1 Egypt  (H 0.47 / D 0.25 / A 0.28, medium)
+- M38: Iran 1–0 New Zealand  (H 0.59 / D 0.23 / A 0.18, high)
+- M39: Belgium 1–0 Iran  (H 0.52 / D 0.25 / A 0.23, medium)
+- M40: New Zealand 0–2 Egypt  (H 0.14 / D 0.20 / A 0.66, high)
+- M41: New Zealand 0–2 Belgium  (H 0.09 / D 0.16 / A 0.75, high)
+- M42: Egypt 1–1 Iran  (H 0.43 / D 0.26 / A 0.31, low)
+  Final table:
+    1. Belgium — 7 pts, GD +3, GF 4
+    2. Egypt — 5 pts, GD +2, GF 4
+    3. Iran — 4 pts, GD +0, GF 2
+    4. New Zealand — 0 pts, GD -5, GF 0
+
+**Group H**
+- M43: Spain 3–0 Cape Verde  (H 0.90 / D 0.07 / A 0.03, high)
+- M44: Saudi Arabia 0–2 Uruguay  (H 0.12 / D 0.19 / A 0.69, high)
+- M45: Spain 3–0 Saudi Arabia  (H 0.87 / D 0.09 / A 0.04, high)
+- M46: Uruguay 2–0 Cape Verde  (H 0.75 / D 0.16 / A 0.09, high)
+- M47: Uruguay 0–1 Spain  (H 0.19 / D 0.23 / A 0.58, high)
+- M48: Cape Verde 1–1 Saudi Arabia  (H 0.32 / D 0.26 / A 0.42, low)
+  Final table:
+    1. Spain — 9 pts, GD +7, GF 7
+    2. Uruguay — 6 pts, GD +3, GF 4
+    3. Saudi Arabia — 1 pts, GD -5, GF 1
+    4. Cape Verde — 1 pts, GD -5, GF 1
+
+**Group I**
+- M49: France 1–0 Senegal  (H 0.63 / D 0.21 / A 0.16, high)
+- M50: Iraq 0–2 Norway  (H 0.13 / D 0.19 / A 0.68, high)
+- M51: France 3–0 Iraq  (H 0.88 / D 0.09 / A 0.03, high)
+- M52: Norway 1–1 Senegal  (H 0.37 / D 0.26 / A 0.37, low)
+- M53: Norway 0–2 France  (H 0.15 / D 0.20 / A 0.65, high)
+- M54: Senegal 2–0 Iraq  (H 0.67 / D 0.20 / A 0.13, high)
+  Final table:
+    1. France — 9 pts, GD +6, GF 6
+    2. Senegal — 4 pts, GD +1, GF 3
+    3. Norway — 4 pts, GD +0, GF 3
+    4. Iraq — 0 pts, GD -7, GF 0
+
+**Group J**
+- M55: Argentina 2–0 Algeria  (H 0.81 / D 0.13 / A 0.06, high)
+- M56: Austria 1–0 Jordan  (H 0.59 / D 0.23 / A 0.18, high)
+- M57: Argentina 2–0 Austria  (H 0.70 / D 0.18 / A 0.12, high)
+- M58: Jordan 1–1 Algeria  (H 0.28 / D 0.25 / A 0.47, medium)
+- M59: Jordan 0–3 Argentina  (H 0.04 / D 0.09 / A 0.87, high)
+- M60: Algeria 1–1 Austria  (H 0.25 / D 0.25 / A 0.50, medium)
+  Final table:
+    1. Argentina — 9 pts, GD +7, GF 7
+    2. Austria — 4 pts, GD -1, GF 2
+    3. Algeria — 2 pts, GD -2, GF 2
+    4. Jordan — 1 pts, GD -4, GF 1
+
+**Group K**
+- M61: Portugal 2–0 DR Congo  (H 0.73 / D 0.17 / A 0.10, high)
+- M62: Uzbekistan 0–2 Colombia  (H 0.11 / D 0.18 / A 0.71, high)
+- M63: Portugal 2–0 Uzbekistan  (H 0.77 / D 0.15 / A 0.08, high)
+- M64: Colombia 2–0 DR Congo  (H 0.66 / D 0.20 / A 0.14, high)
+- M65: Colombia 1–1 Portugal  (H 0.30 / D 0.26 / A 0.44, low)
+- M66: DR Congo 1–1 Uzbekistan  (H 0.42 / D 0.27 / A 0.31, low)
+  Final table:
+    1. Portugal — 7 pts, GD +4, GF 5
+    2. Colombia — 7 pts, GD +4, GF 5
+    3. DR Congo — 1 pts, GD -4, GF 1
+    4. Uzbekistan — 1 pts, GD -4, GF 1
+
+**Group L**
+- M67: England 1–0 Croatia  (H 0.59 / D 0.23 / A 0.18, high)
+- M68: Ghana 1–1 Panama  (H 0.43 / D 0.26 / A 0.31, low)
+- M69: England 2–0 Ghana  (H 0.79 / D 0.14 / A 0.07, high)
+- M70: Panama 0–1 Croatia  (H 0.15 / D 0.22 / A 0.63, high)
+- M71: Panama 0–2 England  (H 0.05 / D 0.12 / A 0.83, high)
+- M72: Croatia 1–0 Ghana  (H 0.57 / D 0.23 / A 0.20, high)
+  Final table:
+    1. England — 9 pts, GD +5, GF 5
+    2. Croatia — 6 pts, GD +1, GF 2
+    3. Ghana — 1 pts, GD -3, GF 1
+    4. Panama — 1 pts, GD -3, GF 1
