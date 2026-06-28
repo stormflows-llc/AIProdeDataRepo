@@ -1,3 +1,164 @@
 {
-  "predictions": []
+  "predictions": [
+    {
+      "match_id": 73,
+      "predicted_home_score": 1,
+      "predicted_away_score": 2,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.28,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.45,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 74,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.55,
+      "draw_probability": 0.23,
+      "away_win_probability": 0.22,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 75,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.68,
+      "draw_probability": 0.20,
+      "away_win_probability": 0.12,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 76,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.45,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.28,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 77,
+      "predicted_home_score": 1,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "Norway",
+      "home_win_probability": 0.34,
+      "draw_probability": 0.28,
+      "away_win_probability": 0.38,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 78,
+      "predicted_home_score": 3,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.72,
+      "draw_probability": 0.16,
+      "away_win_probability": 0.12,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 79,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.66,
+      "draw_probability": 0.21,
+      "away_win_probability": 0.13,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 80,
+      "predicted_home_score": 3,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.74,
+      "draw_probability": 0.16,
+      "away_win_probability": 0.10,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 81,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.46,
+      "draw_probability": 0.26,
+      "away_win_probability": 0.28,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 82,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.62,
+      "draw_probability": 0.22,
+      "away_win_probability": 0.16,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 83,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.68,
+      "draw_probability": 0.19,
+      "away_win_probability": 0.13,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 84,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.58,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.18,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 85,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.45,
+      "draw_probability": 0.27,
+      "away_win_probability": 0.28,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 86,
+      "predicted_home_score": 1,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "Egypt",
+      "home_win_probability": 0.32,
+      "draw_probability": 0.30,
+      "away_win_probability": 0.38,
+      "model_confidence": "low"
+    },
+    {
+      "match_id": 87,
+      "predicted_home_score": 3,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.78,
+      "draw_probability": 0.13,
+      "away_win_probability": 0.09,
+      "model_confidence": "high"
+    },
+    {
+      "match_id": 88,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.60,
+      "draw_probability": 0.23,
+      "away_win_probability": 0.17,
+      "model_confidence": "medium"
+    }
+  ]
 }
