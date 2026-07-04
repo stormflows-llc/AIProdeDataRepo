@@ -41,9 +41,9 @@ Match 88 winner: Colombia
 | 90 | Canada | Morocco | 2026-07-04 |
 | 91 | Brazil | Norway | 2026-07-05 |
 | 92 | Mexico | England | 2026-07-05 |
-| 93 | Spain | Portugal | 2026-07-06 |
-| 94 | Belgium | United States | 2026-07-06 |
-| 95 | Egypt | Argentina | 2026-07-07 |
+| 93 | Portugal | Spain | 2026-07-06 |
+| 94 | United States | Belgium | 2026-07-06 |
+| 95 | Argentina | Egypt | 2026-07-07 |
 | 96 | Switzerland | Colombia | 2026-07-07 |
 
 ## Your task
