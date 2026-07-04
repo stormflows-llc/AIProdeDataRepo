@@ -1,14 +1,10 @@
-# A Posteriori Prediction — Round of 16 (follow-up: matches 95 and 96)
+# A Posteriori Prediction — Round of 16
 
 ## Context
 
 You are Claude Opus 4.8. You have already predicted the Round of 32 a posteriori (with knowledge of
-actual group stage qualifiers), and you have already predicted 6 of the 8 Round of 16 matches
-(89–94) in an earlier prompt — those are already recorded. Round of 32 matches 87 (Argentina vs Cape
-Verde) and 88 (Colombia vs Ghana) have now both been played, which resolves the remaining two Round
-of 16 matches: 95 and 96. Apply your methodology to predict these two additional matches.
-
-The full Round of 16 bracket is now determined — this is the last follow-up needed for this round.
+actual group stage qualifiers). The Round of 32 is now complete. Apply your methodology to predict
+all 8 Round of 16 matches using the actual results.
 
 ## Your methodology
 
@@ -39,27 +35,20 @@ Match 88 winner: Colombia
 
 ## Round of 16 bracket
 
-All 8 matches are now fully determined.
-
-| Match ID | Home Team | Away Team | Date | Status |
-|---|---|---|---|---|
-| 89 | Paraguay | France | 2026-07-04 | already predicted |
-| 90 | Canada | Morocco | 2026-07-04 | already predicted |
-| 91 | Brazil | Norway | 2026-07-05 | already predicted |
-| 92 | Mexico | England | 2026-07-05 | already predicted |
-| 93 | Spain | Portugal | 2026-07-06 | already predicted |
-| 94 | Belgium | United States | 2026-07-06 | already predicted |
-| 95 | Egypt | Argentina | 2026-07-07 | **predict now** |
-| 96 | Switzerland | Colombia | 2026-07-07 | **predict now** |
-
-## IMPORTANT
-
-- Predict only matches **95** (Egypt vs Argentina) and **96** (Switzerland vs Colombia). Matches
-  89–94 are already recorded — do not re-predict them.
+| Match ID | Home Team | Away Team | Date |
+|---|---|---|---|
+| 89 | Paraguay | France | 2026-07-04 |
+| 90 | Canada | Morocco | 2026-07-04 |
+| 91 | Brazil | Norway | 2026-07-05 |
+| 92 | Mexico | England | 2026-07-05 |
+| 93 | Spain | Portugal | 2026-07-06 |
+| 94 | Belgium | United States | 2026-07-06 |
+| 95 | Egypt | Argentina | 2026-07-07 |
+| 96 | Switzerland | Colombia | 2026-07-07 |
 
 ## Your task
 
-Predict matches 95 and 96. Factor in:
+Predict all 8 matches. Factor in:
 - Round of 32 performance (margin of victory, penalty shootouts, fatigue)
 - Cumulative squad fatigue and any new injuries/suspensions
 - Momentum — which teams look sharp vs. which survived on luck
@@ -76,23 +65,9 @@ Output ONLY the following JSON — no preamble, no explanation. The output will 
     {
       "stage": "round_of_16",
       "group": "none",
-      "match_id": 95,
-      "home_team": "Egypt",
-      "away_team": "Argentina",
-      "predicted_home_score": 0,
-      "predicted_away_score": 0,
-      "extra_time_or_penalties_winner": "none",
-      "home_win_probability": 0.00,
-      "draw_probability": 0.00,
-      "away_win_probability": 0.00,
-      "model_confidence": "high"
-    },
-    {
-      "stage": "round_of_16",
-      "group": "none",
-      "match_id": 96,
-      "home_team": "Switzerland",
-      "away_team": "Colombia",
+      "match_id": 89,
+      "home_team": "ACTUAL_HOME_TEAM",
+      "away_team": "ACTUAL_AWAY_TEAM",
       "predicted_home_score": 0,
       "predicted_away_score": 0,
       "extra_time_or_penalties_winner": "none",
@@ -106,9 +81,9 @@ Output ONLY the following JSON — no preamble, no explanation. The output will 
 ```
 
 **Rules:**
-- Include only match_ids 95 and 96. Do NOT include 89–94 — already recorded.
-- `stage` = `"round_of_16"` for both
-- `group` = `"none"` for both
+- Include all 8 matches (IDs 89–96)
+- `stage` = `"round_of_16"` for all
+- `group` = `"none"` for all knockout matches
 - Probabilities must sum to exactly `1.00` (tolerance ±0.01)
 - `model_confidence`: `"high"`, `"medium"`, or `"low"`
 - Output ONLY the JSON object
