@@ -1,0 +1,44 @@
+{
+  "predictions": [
+    {
+      "match_id": 97,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.58,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.18,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 98,
+      "predicted_home_score": 2,
+      "predicted_away_score": 1,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.56,
+      "draw_probability": 0.24,
+      "away_win_probability": 0.2,
+      "model_confidence": "medium"
+    },
+    {
+      "match_id": 99,
+      "predicted_home_score": 1,
+      "predicted_away_score": 2,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.32,
+      "draw_probability": 0.26,
+      "away_win_probability": 0.42,
+      "model_confidence": "low"
+    },
+    {
+      "match_id": 100,
+      "predicted_home_score": 2,
+      "predicted_away_score": 0,
+      "extra_time_or_penalties_winner": "none",
+      "home_win_probability": 0.64,
+      "draw_probability": 0.22,
+      "away_win_probability": 0.14,
+      "model_confidence": "high"
+    }
+  ]
+}
