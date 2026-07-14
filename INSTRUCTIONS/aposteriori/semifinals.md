@@ -13,18 +13,18 @@ You are Claude Opus 4.8. The quarterfinals are complete. Predict both semifinal 
 ## Quarterfinal results — teams advancing
 
 ```
-Match 97 winner: ________________
-Match 98 winner: ________________
-Match 99 winner: ________________
-Match 100 winner: ________________
+Match 97 winner: France
+Match 98 winner: Spain
+Match 99 winner: England
+Match 100 winner: Argentina
 ```
 
 ## Semifinal bracket
 
 | Match ID | Home Team | Away Team | Date |
 |---|---|---|---|
-| 101 | ________________ | ________________ | 2026-07-14 |
-| 102 | ________________ | ________________ | 2026-07-15 |
+| 101 | France | Spain | 2026-07-14 |
+| 102 | England | Argentina | 2026-07-15 |
 
 ## Your task
 
