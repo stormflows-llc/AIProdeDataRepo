@@ -14,16 +14,16 @@ final.
 ## Semifinal results
 
 ```
-Match 101 winner: ________________  (loser goes to 3rd place: ________________)
-Match 102 winner: ________________  (loser goes to 3rd place: ________________)
+Match 101 winner: Spain  (loser goes to 3rd place: France)
+Match 102 winner: Argentina  (loser goes to 3rd place: England)
 ```
 
 ## Final bracket
 
 | Match ID | Stage | Home Team | Away Team | Date |
 |---|---|---|---|---|
-| 103 | third_place | ________________ | ________________ | 2026-07-18 |
-| 104 | grand_final | ________________ | ________________ | 2026-07-19 |
+| 103 | third_place | France | England | 2026-07-18 |
+| 104 | grand_final | Spain | Argentina | 2026-07-19 |
 
 ## Your task
 
